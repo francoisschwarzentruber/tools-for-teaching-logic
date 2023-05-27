@@ -14,6 +14,7 @@ A list of tools for teaching logic
 - [Hintikka's World](http://hintikkasworld.irisa.fr/), a tool that displays Kripke structures
 - [SMCDEL](https://w4eg.de/malvin/illc/smcdelweb/index.html) a symbolic model checking for dynamic epistemic logic
 - [Lotrec](https://www.irit.fr/Lotrec/) a generic tableau prover
+- [List of tools by Renata Schmidt](http://www.cs.man.ac.uk/~schmidt/tools/)
 
 ## Proof systems
 - [Pandora](https://www.doc.ic.ac.uk/pandora/newpandora/index.html)
