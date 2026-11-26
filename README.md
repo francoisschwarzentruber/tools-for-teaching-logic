@@ -30,6 +30,7 @@ A list of tools for teaching logic
 - [Pravda](http://pravda.irisa.fr/) for natural deduction and resolution
 - [Panda](http://people.irisa.fr/Francois.Schwarzentruber/panda/) for natural deduction
 - [The incredible proof machine](https://incredible.pm/)
+- [TheoremOS practice](https://app.theoremos.top/practice.html?lang=en), a browser exercise from the open source TheoremOS workbench for inspecting a failed Lean 4 proof attempt and its repair
 
 ## Program verification
 - [Why3](https://why3.lri.fr/)
