@@ -4,7 +4,7 @@ A list of tools for teaching logic
 
 ## Propositional logic
 
-- [SATRennesPa](satrennespa.irisa.fr/), a graphical user interface for a SAT solver
+- (does not work) [SATRennesPa](satrennespa.irisa.fr/), a graphical user interface for a SAT solver
 - [Logic for fun](https://l4f.cecs.anu.edu.au/), a solver + many puzzles
 - [Touist](https://touist.github.io/) a graphical user interface and command line for using a SAT/SMT solver
 
@@ -16,10 +16,10 @@ A list of tools for teaching logic
 
 ## Modal logic
 - [Modal Logic Playground](https://rkirsling.github.io/modallogic/)
-- [Hintikka's World](http://hintikkasworld.irisa.fr/), a tool that displays Kripke structures
+- (does not work) [Hintikka's World](http://hintikkasworld.irisa.fr/), a tool that displays Kripke structures
 - [SMCDEL](https://w4eg.de/malvin/illc/smcdelweb/index.html) a symbolic model checking for dynamic epistemic logic
 - [Lotrec](https://www.irit.fr/Lotrec/) a generic tableau prover
-- [Lotrecscheme](https://people.irisa.fr/Francois.Schwarzentruber/lotrecscheme/), a generic tableau prover
+- (does not work) [Lotrecscheme](https://people.irisa.fr/Francois.Schwarzentruber/lotrecscheme/), a generic tableau prover
 - [List of tools by Renata Schmidt](http://www.cs.man.ac.uk/~schmidt/tools/)
 
 ## Non-monotonic logics
@@ -27,7 +27,7 @@ A list of tools for teaching logic
 
 ## Proof systems
 - [Pandora](https://www.doc.ic.ac.uk/pandora/newpandora/index.html)
-- [Pravda](http://pravda.irisa.fr/) for natural deduction and resolution
+- [Pravda](https://github.com/livrelogique/pravda) for natural deduction and resolution
 - [Panda](http://people.irisa.fr/Francois.Schwarzentruber/panda/) for natural deduction
 - [The incredible proof machine](https://incredible.pm/)
 - [TheoremOS practice](https://app.theoremos.top/practice.html?lang=en), a browser exercise from the open source TheoremOS workbench for inspecting a failed Lean 4 proof attempt and its repair
